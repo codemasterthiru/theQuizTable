@@ -1,2 +1,0 @@
-# theQuizTable
-Created with CodeSandbox
